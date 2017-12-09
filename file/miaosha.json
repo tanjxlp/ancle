@@ -1,0 +1,138 @@
+{
+	"img_1128":{
+				"price":"￥124.00",
+				"title":"吉国武  易整理  弧形领  蓝色斜纹",
+				"path":["img/1128/b1.png","img/1128/b2.png","img/1128/b3.png"],
+				"liImg":["<img src='img/1128/m1.png' />","<img src='img/1128/m2.png'/>","<img src='img/1128/m3.png'/>"],
+				"selImg":["<img src='img/1128/s1.png' />","<img src='img/1128/s2.png' />"],
+				"selcolor":["灰色斜纹","蓝色斜纹"],
+				"Row":["img/1128/6378692_01.jpg ","img/1128/6378692_02.jpg","img/1128/6378692_04.jpg" ,
+						"img/1128/6378692_05.jpg","img/1128/modelShow.jpg","img/1128/1091868_03.jpg",
+						"img/1128/1091868_04.jpg","img/1128/1091868_06.jpg","img/1128/1091868_07.jpg",
+						"img/1128/6378692_06.jpg","img/1128/6378692_07.jpg","img/1128/6378692_08.jpg",
+						"img/1128/6378692_07.jpg","img/1128/6378692_10.jpg","img/1128/wy1_02.jpg",
+						"img/1128/6378692_12 (1).jpg","img/1128/6378692_13.jpg","img/1128/6378692_15.jpg",
+						"img/1128/6378692_17.jpg","img/1128/6378692_18.jpg"],
+				"size":["XL","XXL"]	
+				},
+	"img_1130":{
+				"price":"￥219.00",
+				"title":"夹克  MA1绣章  女款  藏青色",
+				"path":["img/1130/b1.png","img/1130/b2.png","img/1130/b3.png","img/1130/b4.png","img/1130/b5.png"],
+				"liImg":["<img src='img/1130/m1.png' />","<img src='img/1130/m2.png'/>","<img src='img/1130/m3.png'/>","<img src='img/1130/m4.png'/>","<img src='img/1130/m5.png'/>"],
+				"selImg":["<img src='img/1130/s1.png' />","<img src='img/1130/s2.png' />"],
+				"selcolor":["黑色","藏青色"],
+				"Row":["img/1130/6375702_01 (1).jpg ","img/1130/6375702_02.jpg","img/1130/6375702_03.jpg" ,
+						"img/1130/6375702_04.jpg","img/1130/6375702_05.jpg","img/1130/6375702_06.jpg",
+						"img/1130/6375702_07.jpg","img/1130/6375702_08.jpg"],
+				"size":["S","M"]	
+				},	
+	"img_1201":{
+				"price":"￥259.00",
+				"title":"peacoat海军款  毛呢大衣  c9  灰色",
+				"path":["img/1201/b1.png","img/1201/b2.png","img/1201/b3.png"],
+				"liImg":["<img src='img/1201/m1.png' />","<img src='img/1201/m2.png'/>","<img src='img/1201/m3.png'/>"],
+				"selImg":["<img src='img/1201/s1.png' />","<img src='img/1201/s2.png' />"],
+				"selcolor":["灰色","黑色"],
+				"Row":["img/1201/6378285s_01.jpg ","img/1201/6378285s_02.jpg","img/1201/6378285s_03.jpg" ,
+						"img/1201/6378285s_04.jpg","img/1201/6378285s_05.jpg","img/1201/6378285s_06.jpg",
+						"img/1201/6378285s_07.jpg","img/1201/6378285s_08.jpg","img/1201/6378285s_09.jpg",
+						"img/1201/6378285_01.jpg","img/1201/6378285_02.jpg","img/1201/6378285_03.jpg",
+						"img/1201/6378285_04.jpg","img/1201/6378285_05.jpg","img/1201/6378285_06.jpg",
+						"img/1201/6378285_07.jpg","img/1201/6378285_08.jpg","img/1201/6378285_09.jpg",
+						"img/1201/6378285_10.jpg","img/1201/6378285_11.jpg","img/1201/6378285_12.jpg","img/1201/6378285_13.jpg"],
+				"size":["S","M","L","XL"]
+				},	
+	"img_1202":{
+				"price":"￥298.00",
+				"title":"牛仔裤 修身铅笔裤  轻弹水洗  女款 深蓝",
+				"path":["img/1202/b1.png","img/1202/b2.png","img/1202/b3.png"],
+				"liImg":["<img src='img/1202/m1.png' />","<img src='img/1202/m2.png'/>","<img src='img/1202/m3.png'/>"],
+				"selImg":["<img src='img/1202/s1.png' />","<img src='img/1202/s2.png' />","<img src='img/1202/s3.png'/>","<img src='img/1202/s4.png'/>","<img src='img/1202/s5.png'/>"],
+				"selcolor":["深蓝","中蓝","浅蓝","深水蓝","中水蓝"],
+				"Row":["img/1202/6378884_01.jpg","img/1202/6378884_02.jpg","img/1202/6378884_03.jpg" ,
+						"img/1202/6378884_04.jpg","img/1202/6378884_05.jpg","img/1202/6378884_06.jpg",
+						"img/1202/6378884_07.jpg","img/1202/6378884_08.jpg","img/1202/6378884_09.jpg",
+						"img/1202/6378884_10.jpg","img/1202/6378884_11.jpg","img/1202/6378884_12.jpg",
+						"img/1202/6378884_13.jpg","img/1202/6378884_14.jpg","img/1202/6378884_15.jpg",
+						"img/1202/6378884_16.jpg","img/1202/6378884_17.jpg","img/1202/6378884_18.jpg",
+						"img/1202/6378884_19.jpg","img/1202/6378884_20.jpg","img/1202/6378884_21.jpg","img/1202/6378884_22.jpg"],
+				"size":["24","25","26","27","28"]	
+				},
+	"img_1203":{
+				"price":"￥198.00",
+				"title":"暖绒开衫   男款   浅花灰  ",
+				"path":["img/1203/b1.png"],
+				"liImg":["<img src='img/1203/m1.jpg' />"],
+				"selImg":["<img src='img/1203/s1.png' />","<img src='img/1203/s2.png' />","<img src='img/1203/s3.png'/>","<img src='img/1203/s4.png'/>"],
+				"selcolor":["黑色","牛仔蓝","浅蓝","深花灰","浅花灰"],
+				"Row":["img/1203/6378474_01.jpg","img/1203/6378474_02.jpg","img/1203/6378474_03.jpg",
+						"img/1203/6378474_04.jpg","img/1203/6378474_05.jpg","img/1203/6378474_06.jpg",
+						"img/1203/6378474_07.jpg","img/1203/6378474_08.jpg","img/1203/6378474_09.jpg",
+						"img/1203/6378474_10.jpg","img/1203/6378474_11.jpg","img/1203/6378474_12.jpg",
+						"img/1203/6378474_13.jpg","img/1203/6378474_14.jpg","img/1203/6378474_15.jpg",
+						"img/1203/6378474_16.jpg","img/1203/6378474_17.jpg","img/1203/6378474_18.jpg",
+						"img/1203/6378474_19.jpg","img/1203/6378474_20.jpg"],
+				"size":["S","M","L","XL","XXL"]	
+				},	
+	"img_1204":{	
+				"price":"￥398.00",
+				"title":"基础拉链开衫   女   浅花灰  ",
+				"path":["img/1204/b1.png","img/1204/b1.png","img/1204/b1.png"],
+				"liImg":["<img src='img/1204/m1.png'/>","<img src='img/1204/m2.png'/>","<img src='img/1204/m3.png'/>"],
+				"selImg":["<img src='img/1204/s1.png' />","<img src='img/1204/s2.png' />"],
+				"selcolor":["黑色","浅花灰"],
+				"Row":[],
+				"size":["S","M","L","XL"]
+				},	
+	"img_1205":{	
+				"price":"￥258.00",
+				"title":"牛津纺  男款   卡其色  ",
+				"path":["img/1205/b1.png","img/1205/b1.png","img/1205/b1.png"],
+				"liImg":["<img src='img/1205/m1.png'/>","<img src='img/1205/m2.png'/>","<img src='img/1205/m3.png'/>"],
+				"selImg":["<img src='img/1205/s1.png' />","<img src='img/1205/s2.png' />","<img src='img/1205/s3.png' />"],
+				"selcolor":["天蓝色","白色","藏青色"],
+				"Row":[],
+				"size":["S","M","L","XL","XXL"]
+				},	
+	"img_1206":{	
+				"price":"￥1589.00",
+				"title":"羊毛大衣  风衣长款  女款  黑色  ",
+				"path":["img/1206/b1.png","img/1206/b2.png","img/1206/b3.png","img/1206/b4.png","img/1206/b5.png"],
+				"liImg":["<img src='img/1206/m1.png'/>","<img src='img/1206/m2.png'/>","<img src='img/1206/m3.png'/>","<img src='img/1206/m4.png'/>","<img src='img/1206/m5.png'/>"],
+				"selImg":["<img src='img/1206/s1.jpg'/>"],
+				"selcolor":["黑色"],
+				"Row":[],
+				"size":["S","M","L"]
+				},
+	"img_1207":{	
+				"price":"￥258.00",
+				"title":"圆领  熊本熊   意式立领   S3   黑色  ",
+				"path":["img/1207/b1.png","img/1207/b2.png","img/1207/b3.png"],
+				"liImg":["<img src='img/1207/m1.png'/>","<img src='img/1207/m2.png'/>","<img src='img/1207/m3.png'/>"],
+				"selImg":["<img src='img/1207/s1.png'/>","<img src='img/1207/s2.png'/>","<img src='img/1207/s3.png'/>"],
+				"selcolor":["S1浅花灰","S1黑色","S2浅花灰"],
+				"Row":[],
+				"size":["S","M","L","XL","XXL"]
+				}						
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+				
+}
+
+

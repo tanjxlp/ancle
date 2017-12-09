@@ -1,0 +1,248 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#shop_wrapper{
+	width: 1100px;
+	margin: 0 auto;
+}
+#shop_goMenu{
+	width: 100px;
+	height: 35px;
+	position: absolute;
+	left: 35px;
+	top: 10px;
+}
+#shop_title{
+	width: 1100px;
+	height: 60px;
+	border-bottom: 1px solid #b42025;
+	position: relative;
+}
+#login_a{
+	position: absolute;
+	right: 150px;
+	top: 23px;
+	color: #a10000;
+	cursor: pointer;
+	font-size: 14px;
+	text-decoration: none;
+}
+#register_a{
+	position: absolute;
+	right: 100px;
+	top: 23px;
+	color: #a10000;
+	cursor: pointer;
+	font-size: 14px;
+	text-decoration: none;
+}
+#shop_content{
+	border: 1px solid gainsboro;
+}
+#shop_bar{
+	width: 1098px;
+	height: 40px;
+	position: relative;
+	border: 1px solid gainsboro;
+	background: gainsboro;
+}
+#shop_trillryList{
+	width: 1100px;
+	/*height: 697px;*/
+}
+#shop_trillryList > div {
+	width: 1100px;
+	height: 100px;
+	position: relative;
+	border: 1px solid gainsboro;
+}
+#shop_trillryList >div > div{
+	width: 1065px;
+	height: 80px;
+	position: relative;
+	top: 10px;
+	left: 15px;
+	background: gainsboro;
+}
+#shop_cheak{
+	position: absolute;
+	left: 50px;
+	top: 15px;
+}
+#cheakAll{
+	position: absolute;
+	left: 70px;
+	top: 11px;
+	color: #333333;
+	font-size: 15px;
+}
+#shop_trillryName{
+	position: absolute;
+	left: 320px;
+	top: 11px;
+	color: #333333;
+	font-size: 15px;
+}
+#shop_size{
+	position: absolute;
+	right: 435px;
+	top: 11px;
+	color: #333333;
+	font-size: 15px;
+}
+#shop_price{
+	position: absolute;
+	right: 340px;
+	top: 11px;
+	color: #333333;
+	font-size: 15px;
+}
+#shop_count{
+	position: absolute;
+	right: 245px;
+	top: 11px;
+	color: #333333;
+	font-size: 15px;
+}
+#foot_count_p{
+	width: 67px;
+	height: 30px;
+	position: absolute;
+	left: 315px;
+	top: 11px;
+	color: #333333;
+	font-size: 15px;
+}
+#foot_count_span{
+	width: 40px;
+	height: 18px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	color: #a10000;
+	font-size: 15px;
+	text-align: center;
+}
+#foot_count_span2{
+	width: 23px;
+	height: 18px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	color: #333333;
+	font-size: 15px;
+}
+#foot_priceAll_p{
+	position: absolute;
+	left: 430px;
+	top: 23px;
+	color: #333333;
+	font-size: 15px;
+}
+#foot_priceAll{
+	position: absolute;
+	left: 600px;
+	top: 15px;
+	color: #a10000;
+	font-size: 24px;
+}
+#foot_number{
+	position: absolute;
+	left: 625px;
+	top: 15px;
+	color: #a10000;
+	font-size: 24px;
+}
+#foot_nextBtn{
+	width: 122px;
+	height: 37px;
+	color: #666666;
+	font-size:14px ;
+	position: absolute;
+	right: 200px;
+	top: 12px;
+	border: 1px solid gainsboro;
+	border-radius:6px ;
+}
+#foot_buyBtn{
+	width: 160px;
+	height: 50px;
+	color: white;
+	background: #a10000;
+	font-size:18px ;
+	position: absolute;
+	right: 20px;
+	top: 5px;
+	border-radius:6px ;
+}
+#priceAll{
+	position: absolute;
+	right: 145px;
+	top: 11px;
+	color: #333333;
+	font-size: 15px;
+}
+#operate{
+	position: absolute;
+	right: 50px;
+	top: 11px;
+	color: #333333;
+	font-size: 15px;
+}
+#shop_foot{
+	width: 1100px;
+	height: 60px;
+	position: relative;
+	border: 1px solid gainsboro;
+}
+#foot_cheak{
+	position: absolute;
+	left: 20px;
+	top: 25px;
+}
+#foot_cheakAll{
+	position: absolute;
+	left: 40px;
+	top: 21px;
+	color: #333333;
+	font-size: 15px;
+}
+#foot_delate{
+	position: absolute;
+	left: 120px;
+	top: 21px;
+	color: #333333;
+	font-size: 15px;
+	outline: none;
+	border: none;
+	background: white;
+}
+#foot_count{
+	position:absolute;
+	left: 250px;
+	top: 21px;
+	color: #333333;
+	font-size: 15px;
+}
+#link{
+	width: 1423px;
+	height: 300px;
+	position: relative;
+	top: 85px;
+	border-top: 1px solid black;
+}
+#link > p {
+	width: 800px;
+	height: 30px;
+	position: relative;
+	left: 325px;
+	top: 20px;
+	font-size:12px ;
+	/*border: 1px solid black;*/
+}
+#link_img{
+	position: relative;
+	top: 20px;
+	left: 330px;
+}
